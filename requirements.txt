@@ -1,4 +1,5 @@
 streamlit
 sendgrid
 pandas
+plotly
 numpy
